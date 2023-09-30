@@ -9,7 +9,7 @@ Scanner sarathi=new Scanner(System.in);
 //bscilfd
 System.out.println("Do you want enter your Ration card details(yes/no):\n");
 String opinion=sarathi.nextLine();
-
+//chages
 System.out.println("Enter your card Status(active(true)/deactive(false)):\n");
 boolean Status=sarathi.nextBoolean();
 
