@@ -2,6 +2,7 @@ package sarathi;
 import java.util.Scanner;
 public class Myscanner
 {
+    
 public static void main(String[] args)
 {
 Myscanner sri=new Myscanner();
