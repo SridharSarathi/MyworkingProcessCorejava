@@ -36,7 +36,7 @@ public int mark()
     }
 public short salary(int daycount,String day)
 {
-  System.out.println("your day count is "+daycount);
+  System.out.println("your day count is "+daycount);   
   System.out.println(" your dayis "+day);
   return 1;
 }
