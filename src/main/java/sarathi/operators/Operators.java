@@ -1,4 +1,4 @@
-package sarathi;
+package sarathi.operators;
 public class Operators
 {
 
