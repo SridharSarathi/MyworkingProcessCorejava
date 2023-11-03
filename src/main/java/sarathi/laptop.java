@@ -14,12 +14,12 @@ public class laptop
      sri.entry(amount);
     }
 
-    public void entry(int value)
+    public void entry(int value) 
     {
       Scanner scan1=new Scanner(System.in);
             if(value>=100000)
             {
-                 System.out.println("You will buy appple");  
+                 System.out.println("You will buy apple");  
             }
                  if(value>=50000)
                  {
