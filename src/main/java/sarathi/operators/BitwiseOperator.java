@@ -13,7 +13,6 @@ public class BitwiseOperator
   }  
 }
 //          16  8  4  2  1
-/
 ''
 //  a=10      0  1  0  1  0
 //  b=20      1  0  1  0  0
