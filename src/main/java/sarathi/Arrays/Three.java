@@ -13,7 +13,7 @@ int count=1;
 for(int row=0;row<mark.length;row++)
 {
 for(int column=0;column<mark[row].length;column++)
-{ewraq
+{
 for(int values=0;column<2;values++)
 {
 
